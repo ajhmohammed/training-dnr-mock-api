@@ -28,7 +28,7 @@ npm install express cors
 ### Starting the Server
 
 ```bash
-node server.js
+node index.js
 ```
 
 The server will start on `http://localhost:5858`
